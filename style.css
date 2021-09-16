@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+#Apps {
+    background-color: royalblue;
+}
+
+#games {
+    background-color: royalblue;
+}
+
+#ChatBot {
+    background-color: royalblue;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.8);
+}
